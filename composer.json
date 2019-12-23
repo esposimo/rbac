@@ -1,6 +1,7 @@
 {
     "name": "smn/rbac",
     "description": "Description of project rbac.",
+    "license" : "MIT",
     "authors": [
         {
             "name": "Simone",
