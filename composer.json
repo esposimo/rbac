@@ -1,0 +1,13 @@
+{
+    "name": "smn/rbac",
+    "description": "Description of project rbac.",
+    "authors": [
+        {
+            "name": "Simone",
+            "email": "simone.esposito1986@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : { "smn\\lazyc\\rbac\\" : "" }
+    }
+}
